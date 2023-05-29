@@ -23,13 +23,14 @@ header{
 header .logo,
 header .imagem-botao
 {
-    width: 50px;
+    max-width: 50px;
     transition: 0.2s ease-in-out;
     
 }
 
 header .pokedex{
     width: 300px;
+    max-width: 100%;
 }
 
 header #botao-alterar-tema{
